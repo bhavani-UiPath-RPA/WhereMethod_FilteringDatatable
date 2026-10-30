@@ -103,7 +103,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="Sequence-Clone" sap:VirtualizedContainerService.HintSize="650,1125.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_3">
+    <Sequence DisplayName="Seq- Update Datatable By Clone" sap:VirtualizedContainerService.HintSize="650,1125.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_3">
       <Sequence.Variables>
         <Variable x:TypeArguments="sd:DataTable" Name="CloneDt" />
         <Variable x:TypeArguments="x:String" Name="TextDt" />
